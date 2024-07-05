@@ -1,0 +1,4 @@
+venv/
+extracted_pages/
+dummy_data.pdf
+__pycache__
