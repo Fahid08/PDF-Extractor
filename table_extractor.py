@@ -15,3 +15,4 @@ for i, table in enumerate(tables):
     print(table.df)  # DataFrame of the extracted table
     # Optionally export to CSV or other formats
     # table.to_csv(f"table_{i}.csv")
+    
