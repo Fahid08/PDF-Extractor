@@ -1,0 +1,140 @@
+The balance between carbon input and decomposition of organic matter determines
+if a ﬁeld is a source or a sink of carbon. There is only one study that reports net
+ecosystem exchange of a ﬁeld on mineral soil (Lind et al. 2016) and that represents
+cultivation of reed canary grass which is not an especially common crop. Thus, the
+available data does not allow for estimation of a full carbon balance of a typical
+ﬁeld based on measurements (Table 2.2). Evidence from a 35-year ﬁeld monitoring
+points to the direction that cultivated mineral soils on the average lose carbon at an
+annual rate about 200 kg/ha (Heikkinen et al. 2013). The estimate was based on
+monitoring of about 500 ﬁelds and soil sampling only to 15 cm; thus, it represents
+changes in the topsoil only. The authors deduced that the declining trend is related
+to warming climate, changes in cropping (less annual crops and varieties with less
+crop residues) and the young age of ﬁelds that may be still losing carbon from the
+The amount of carbon input depends on choices made in cultivation practices.
+Decomposition is mainly driven by the climatic conditions although, e.g. tillage
+practices have a role in that as well. Despite the cool climate restricting decom-
+position of organic matter, it is likely that conventional agricultural practices result
+in loss of carbon from soil in Finnish conditions. A long-term ﬁeld experiment in
+the neighbouring country, Sweden, showed that returning only crop residues with
+References: 1 (Syvasalo et al. 2006); 2 (Regina et al. 2007); 3 (Syvasalo et al. 2004); 4 (Petersen
+et al. 2006); 5 (Sheehy et al. 2013); 6 (Lind et al. 2016); 7 (Regina et al. 2006); 8 (Maljanen et al.
+2009); 9 (Virkajarvi et al. 2010); 10 (Maljanen et al. 2012b)
+no other amendments usually results in the decline of the carbon stock (Katterer
+et al. 2011). Plant breeding tends to develop varieties with less and less crop
+residues, which may also complicate maintaining the carbon content of cultivated
+soils. However, the amount of above-ground plant litter does not seem to be crucial
+for maintaining the carbon stocks of cultivated soils as the removal or burning of
+straw did not have an effect in a 30-year ﬁeld experiment in Southern Finland
+stock by 20–40%, and the loss of carbon from the soil proﬁle is fastest during the
+ﬁrst decades (Guo and Gifford 2002; Karhu et al. 2011). Reaching a new steady
+state where the carbon input and its loss are in balance may take several decades,
+and thus it is impossible to say how much of the observed carbon loss is due to the
+land use change and how much is caused by agricultural management.
+Methane is produced microbially in anaerobic conditions and consumed in aerobic
+conditions. In soils, the conditions can vary from anaerobic to aerobic in time or
+space. The sites of CH4 production are the lower soil layers with low oxygen content
+or soil aggregates favouring anaerobic bacteria. Sites of CH4 consumption are the
+topsoil or macropores of the soil. Soil micro- or macroporosity was found to affect
+the observed rates of CH4 ﬂux in Finnish clay and sandy soils (Regina et al. 2007). In
+cultivated soils, the annual balance of CH4 is usually close to zero most often
+resulting in more CH4 being consumed than produced. Emissions of CH4 have
+been reported to occur occasionally in wet conditions (Regina et al. 2007), but
+even then, the annual balance typically indicates net consumption of CH4.
+Compared to CO2, the carbon ﬂows related to CH4 are minor (Table 2.2). The
+annual ﬂuxes have ranged from −0.12 to 0.06 g m−2 with no clear differences
+between annual and perennial cropping can be seen. Grazing has been found to
+change pastures from sink to source of CH4 emissions due to CH4 released from the
+In cultivated mineral soils, the most signiﬁcant gas in the total greenhouse gas
+budget is N2O. Average annual emissions of N2O have been 0.6 g m−2 for annual
+(Table 2.2). Annual emissions of N2O are typically slightly higher from annual
+cultivation compared to perennial despite the higher fertilization rates on perennial
+Perennial crops take up nutrients clearly for a longer period annually compared
+to annual crops and that reduces the amount of nitrogen available for the microbes
+during the non-vegetated period. The emissions during the period between harvest
+and sowing represent about 40% of the annual budget of N2O (Regina et al. 2013)
+which highlights the importance of the residual nitrogen after harvest in the absence
+of nutrient uptake of plants. The difference between perennial and annual crops may
+thus be emphasized in the northern conditions with short growing season of cash
+It has been found in many studies that emissions of N2O are not ceased in the
+winter time even when the soil is frozen. Availability of nitrate is always good in
+cultivated soils, and the low oxygen content favours denitrifying bacteria that can
+be active in microsites with unfrozen water of frozen soil (Teepe et al. 2004). One
+reason for the high N2O production at low temperatures can be that N2O reductase
+enzymatic activity is inhibited (Muller et al. 2003), and therefore the end product of
+The timing of freezing and soil water content have important effects on the
+emission of N2O (Maljanen et al. 2009; Teepe et al. 2004). Also the depth and
+timing of snow cover can affect N2O emissions. Snow manipulation experiments
+have shown that thinner snow cover can lower soil temperatures and increase the
+extent and duration of soil frost (Maljanen et al. 2009). In frozen soil, N2O is still
+produced and accumulated in soil, and it is then rapidly released during thawing
+(Koponen and Martikainen 2004; Maljanen et al. 2007a, 2009). The N2O pro-
+duction in frozen soil does not correlate well with the N2O emitted from soil as a
+result of the low gas diffusion rate. Therefore, the release of N2O during winter does
+not give the correct estimate of N2O production activity during the winter.
+Fertilization rate, especially the amount of mineral nitrogen, has been found
+to affect the annual emissions when studied in subsets of annual and perennial
+cropping (Regina et al. 2013). The available data does not allow reliable estimates
+of the effects of fertilizer type (mineral/organic) on N2O emissions. Recent evi-
+dence shows that external nitrogen inputs induce also emissions of nitric oxide
+(NO) and gaseous nitrous acid (HONO) that are not greenhouse gases but reactive
+in the atmosphere (Bhattarai et al. 2018; Maljanen et al. 2007b).
+There is some evidence that no-till management increases N2O emissions from
+cultivated soils (Sheehy et al. 2013). The increase is related to the more dense
+structure of the soil and thus higher soil moisture favouring denitriﬁcation.
+A probable but poorly known hotspot of N2O emissions are ﬁelds on acid
+sulphate soils. They are located on the former sea bottom of the coastal regions and
+have large amounts of organic matter in the subsoil due to sedimented materials.
+The ﬁeld area on acid sulphate soils is in the range of 43 000–130 000 ha
+(Yli-Halla et al. 1999). They are characterized by a large stock of nitrogen and high
+microbial activity that may induce extremely high emissions of N2O, even of the
+magnitude of tens of kilograms per hectare when drained for agriculture (Simek
+et al. 2011, 2014; Petersen et al. 2012; Denmead et al. 2010).
+Losses of carbon from organic soils are typically several folds compared to carbon
+stock changes in mineral soils. Typically 0.5–2 cm of peat is lost from the topsoil of
+cultivated soils due to peat decomposition annually (Gronlund et al. 2008) and that
+represents carbon loss of several tonnes per hectare. Although carbon exchange
+between the soil and atmosphere forms the majority of the climatic impact of
+cultivated organic soils, full carbon balance estimates are still rare. The annual net
+ecosystem exchange has varied between −800 and 3000 g m−2 in Finnish studies
+(Table 2.3). As the reported values show, even in organic soils photosynthesis may
+sometimes exceed carbon loss from the soil, at least in the case of crops with large
+biomass. The consideration of the climatic impact must, however, include the
+biomass transported from the ﬁeld, and in most cases, this turns the ﬁeld to net
+source of carbon even if photosynthesis was able to counteract peat decomposition.
+References: 1 (Maljanen et al. 2001); 2 (Lohila et al. 2004); 3 (Maljanen et al. 2004); 4 (Maljanen
+et al. 2003a); 5 (Regina et al. 2007); 6 (Maljanen et al. 2003b); 7 (Regina et al. 2004); 8 (Maljanen
+et al. 2009); 9 (Maljanen et al. 2010b); 10 (Shurpali et al. 2009)
+The existing results suggest lower carbon losses from soils under a perennial
+than annual crop. This is related to the less frequent disturbance of the soil as well
+as higher carbon input to the soil, especially from high-yielding grass crops.
+Similar to mineral soils, ﬂuxes of CH4 are close to zero also in drained organic soils
+(Table 2.3). The mean value for annual crops is slightly negative indicating oxi-
+dation of CH4 in the topsoil, whereas it seems that net production of CH4 is more
+common in the denser and moister soil under perennial crops. Periods of wet soil
+conditions have been found to increase the net ﬂux occasionally as reported, e.g. by
+Drainage level and functioning of the drains affect soil moisture status and thus
+largely determine the ﬂux rates of CH4. In two ﬁelds with similar cultivation
+practices, the ﬁeld with poorly functioning drainage had mainly net emissions
+during a 2-year monitoring period, whereas its well-drained counterpart showed net
+Emissions from open ditches can have a large impact on the total greenhouse
+balance of a drained peatland (Schrier-Uijl et al. 2011; Minkkinen and Laine 2006).
+There are limited data on these emissions from Finnish croplands (Hyvonen et al.
+2013). As it is known that the nutrient status of the drained area greatly affects the
+emission rate, it is likely that the open ditches around nutrient-rich cultivated ﬁelds
+are a high source of CH4 emissions. However, most ﬁelds are subsurface drained,
+and the signiﬁcance of these emissions is likely minor in the country scale.
+In organic soil, peat decomposition is the main source of N2O emissions and
+fertilization has minor importance. Mineralization of nitrogen from the peat can
+have the magnitude of several hundreds of kilograms per hectare annually, and this
+enables relatively high emission rates of N2O regardless of fertilization (Leppelt
+et al. 2014). The annual emissions of N2O have varied between 0.04 and
+5.47 g m−2 in Finnish measurements (Table 2.3). The annual emissions are thus
+The average annual emission rates have been higher for annual than perennial
+crops indicating tighter nitrogen cycle in the case of perennial grasses that are able
+to take up nutrients until late autumn and are tilled less frequently.
+Like in mineral soils, the residual nitrogen after harvest is a substrate for N2O
+production during the winter period, and about half of the annual emissions can
+occur between harvest and sowing. Climatic conditions in the winter have a large
+effect on the annual emissions. It was observed that a warm period in the winter that
+melted 10 cm of the frost induced a 100-fold increase in N2O concentration of the
+soil proﬁle (Regina et al. 2004). There was a clear difference to a similarly managed
