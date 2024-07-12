@@ -1,0 +1,13 @@
+pdfplumber
+pdf2image
+Pillow
+transformers
+torch
+torchvision
+numpy
+pymupdf
+ghostscript
+pytesseract 
+dotenv
+groq
+pandas
