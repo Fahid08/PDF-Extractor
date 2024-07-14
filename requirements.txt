@@ -1,3 +1,4 @@
+#other
 pdfplumber
 pdf2image
 Pillow
