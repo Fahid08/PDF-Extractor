@@ -10,25 +10,11 @@ if not os.path.exists(extracted_text_save_path):
     with open(extracted_text_save_path, 'w', encoding='utf-8') as file:
         file.write(extracted_text)
 
-flavor = 'stream'
-tables = extract_tables_from_pdf(data_file_path, flavor=flavor)
+# flavor = 'stream'
+# tables = extract_tables_from_pdf(data_file_path, flavor=flavor)
 
-# Print extracted tables
-for i, table in enumerate(tables):
-    print(f"Table {i+1} (Flavor: {flavor}):")
-    print(table)
-    print("\n")
-
-# for i in range(len(blocks)):
-#     print(blocks[i]['lines'][0]['spans'][0]['text'])
-#     print(blocks[i]['lines'][1]['spans'][0]['text'])
-#     print(i)
-
-
-
-
-
-
-
-
-
+# # Print extracted tables
+# for i, table in enumerate(tables):
+#     print(f"Table {i+1}")
+#     print(table)
+#     print("\n")
